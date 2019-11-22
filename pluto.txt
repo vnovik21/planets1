@@ -1,3 +1,5 @@
 pluto is a planet.
+<<<<<<< HEAD
 i really like the closer planets better.
 but it's so small 
+we will discuss further later.
